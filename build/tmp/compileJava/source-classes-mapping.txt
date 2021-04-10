@@ -1,0 +1,22 @@
+net/fabricmc/example/mixin/ExampleMixin.java
+ net.fabricmc.example.mixin.ExampleMixin
+net/fabricmc/example/ExplosionBlock.java
+ net.fabricmc.example.ExplosionBlock
+net/fabricmc/example/AquaticStatus.java
+ net.fabricmc.example.AquaticStatus
+net/fabricmc/example/ExampleGui.java
+ net.fabricmc.example.ExampleGui
+net/fabricmc/example/mixin/PlayerEntityMixin.java
+ net.fabricmc.example.mixin.PlayerEntityMixin
+net/fabricmc/example/ConstantStatusEffects.java
+ net.fabricmc.example.ConstantStatusEffects
+net/fabricmc/example/EpicBlock.java
+ net.fabricmc.example.EpicBlock
+net/fabricmc/example/ExampleScreen.java
+ net.fabricmc.example.ExampleScreen
+net/fabricmc/example/ExampleMod.java
+ net.fabricmc.example.ExampleMod
+net/fabricmc/example/CustomGui.java
+ net.fabricmc.example.CustomGui
+net/fabricmc/example/SosageItem.java
+ net.fabricmc.example.SosageItem
