@@ -1,7 +1,0 @@
-v1	named	intermediary
-FIELD	net/fabricmc/example/mixin/PlayerEntityMixin	Z	isSubmergedInWater	field_7490
-FIELD	net/fabricmc/example/mixin/PlayerEntityMixin	Lnet/minecraft/entity/player/PlayerInventory;	inventory	field_7514
-METHOD	net/fabricmc/example/mixin/PlayerEntityMixin	(Lnet/minecraft/entity/damage/DamageSource;F)Z	damage	method_5643
-METHOD	net/fabricmc/example/mixin/PlayerEntityMixin	(Lnet/minecraft/entity/EntityPose;)Lnet/minecraft/entity/EntityDimensions;	getDimensions	method_18377
-METHOD	net/fabricmc/example/mixin/PlayerEntityMixin	(Lnet/minecraft/entity/EquipmentSlot;)Lnet/minecraft/item/ItemStack;	getEquippedStack	method_6118
-METHOD	net/fabricmc/example/mixin/PlayerEntityMixin	(Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/entity/ItemEntity;	dropItem	method_7328

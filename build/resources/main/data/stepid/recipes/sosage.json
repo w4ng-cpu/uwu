@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "stepid:sosage"
-    },
-    "result": "minecraft:diamond",
-    "experience": 1000,
-    "cookingtime": 100
-}
